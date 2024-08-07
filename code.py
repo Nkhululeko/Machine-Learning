@@ -27,4 +27,4 @@ def main():
     print(f"Accuracy: {accuracy:.2f}")
 
 if __name__ == "__main__":
-    main()
+    main() # type: ignore
